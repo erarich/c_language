@@ -2,12 +2,12 @@
 
 
 ### Tabela de Conteúdos
-* Disciplina de Lógica de Programação (Ementa)
-* Bibliografia
-* Instalação do compilador de C - MinGW (para Windows)
-* Utilização básica do GCC
-* Recomendações de conteúdo sobre linguagem C
-* Exercícios linguagem C
+* [Disciplina de Lógica de Programação (Ementa)](https://github.com/erarich/c_language#disciplina-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-ementa)
+* [Bibliografia](https://github.com/erarich/c_language#bibliografia)
+* [Instalação do compilador de C - MinGW (para Windows)](https://github.com/erarich/c_language#instala%C3%A7%C3%A3o-do-compilador-de-c---mingw-para-windows)
+* [Utilização básica do GCC](https://github.com/erarich/c_language#utiliza%C3%A7%C3%A3o-b%C3%A1sica-do-gcc)
+* [Recomendações de conteúdo sobre linguagem C](https://github.com/erarich/c_language#recomenda%C3%A7%C3%B5es-de-conte%C3%BAdo-sobre-linguagem-c)
+* [Exercícios linguagem C](https://github.com/erarich/c_language#exerc%C3%ADcios-linguagem-c)
 
 
 ### Disciplina de Lógica de Programação (Ementa)
@@ -16,7 +16,7 @@
 
 ### Bibliografia
 
-* Algoritmos e Estrutura de Dados
+* [Algoritmos e Estrutura de Dados](./bibliografia/Algoritmos%20e%20Estrutura%20de%20Dados.pdf)
 * Algoritmos e Lógica de Programação
 * C Completo e Total
 * Como programar em C, Deitel

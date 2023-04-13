@@ -17,12 +17,12 @@
 ### Bibliografia
 
 * [Algoritmos e Estrutura de Dados](./bibliografia/Algoritmos%20e%20Estrutura%20de%20Dados.pdf)
-* Algoritmos e Lógica de Programação
-* C Completo e Total
-* Como programar em C, Deitel
-* Conceitos de Linguagens de Programação
-* Linguagem C - Roteiro de Experimentos para Aulas Práticas
-* Lógica de Programação, Forbellone
+* [Algoritmos e Lógica de Programação](./bibliografia/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf)
+* [C Completo e Total](./bibliografia/C%20Completo%20e%20Total.pdf)
+* [Como programar em C, Deitel](./bibliografia/Como%20programar%20em%20C%2C%20Deitel.pdf)
+* [Conceitos de Linguagens de Programação](./bibliografia/Conceitos%20de%20Linguagens%20de%20Programa%C3%A7%C3%A3o.pdf)
+* [Linguagem C - Roteiro de Experimentos para Aulas Práticas](./bibliografia/Linguagem%20C%20-%20Roteiro%20de%20Experimentos%20para%20Aulas%20Pr%C3%A1ticas.pdf)
+* [Lógica de Programação, Forbellone](./bibliografia/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%2C%20Forbellone.pdf)
 
 ### Instalação do compilador de C - MinGW (para Windows)
 

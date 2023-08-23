@@ -23,6 +23,10 @@
 * [Conceitos de Linguagens de Programação](./bibliografia/Conceitos%20de%20Linguagens%20de%20Programa%C3%A7%C3%A3o.pdf)
 * [Linguagem C - Roteiro de Experimentos para Aulas Práticas](./bibliografia/Linguagem%20C%20-%20Roteiro%20de%20Experimentos%20para%20Aulas%20Pr%C3%A1ticas.pdf)
 * [Lógica de Programação, Forbellone](./bibliografia/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%2C%20Forbellone.pdf)
+* [Linguagem C - Aprendendo com Exercicios Resolvidos](./bibliografia/Linguagem%20C%20-%20Roteiro%20de%20Experimentos%20para%20Aulas%20Práticas.pdf)
+* [Algoritmos e Programação I EBOOK](./bibliografia/Algoritmos%20e%20Programação%20I%20EBOOK.pdf)
+* [Algoritmos e Estrutura de Dados 1 - UFPR](./bibliografia/Algoritmos%20e%20Estrutura%20de%20Dados%201%20-%20UFPR.pdf)
+* [Algoritmos - Manzano](./bibliografia/Algoritmos%20-%20Manzano.pdf)
 
 ### Instalação do compilador de C - MinGW (para Windows)
 

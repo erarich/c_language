@@ -1,7 +1,8 @@
 # Monitoria - Disciplina de Lógica de Programação
 
+Resumo de conteúdos: [conteúdos])(./conteudos.md)
 
-### Tabela de Conteúdos
+### Sumário
 * [Disciplina de Lógica de Programação (Ementa)](https://github.com/erarich/c_language#disciplina-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-ementa)
 * [Bibliografia](https://github.com/erarich/c_language#bibliografia)
 * [Instalação do compilador de C - MinGW (para Windows)](https://github.com/erarich/c_language#instala%C3%A7%C3%A3o-do-compilador-de-c---mingw-para-windows)

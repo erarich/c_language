@@ -1,0 +1,44 @@
+Algoritmo
+   inteiro funcionário, idade, mes, contfrequencia = 0, contp, contmaior = 0, contmenor = 0, contigual = 0;
+   real peso, ultimopeso, frequencia, maior, soma, media;
+
+   para (funcionário = 1; funcionário <= 30; funcionário = funcionário + 1)
+
+      leia (idade);
+
+      leia (maior);
+      para (mes = 2; mes <= 6; mes = mes + 1)
+          leia (frequencia);
+          se (frequencia > maior)
+                maior = frequencia;
+          fimse;
+      fimpara;
+      se (maior > 105)
+          contfrequencia = contfrequencia + 1;
+      fimse;
+
+      contp = 0;
+      soma = 0;
+      leia (peso);
+      faça
+          soma = soma + peso;
+          contp = contp + 1;
+          ultimopeso = peso;
+          leia (peso);
+      enquanto (peso != -1);
+      media = soma/contp;
+      se (media > ultimopeso)
+         contmaior = contmaior + 1;
+      senão
+         se (media < ultimopeso)
+             contmenor = contmenor + 1;
+         senão
+             contigual = contigual + 1;
+         fimse;
+      fimse;
+      
+      
+      escreva (media, maior);
+   fimpara;
+   escreva (contfrequencia/30, contmaior, contmenor, contigual);
+fim.

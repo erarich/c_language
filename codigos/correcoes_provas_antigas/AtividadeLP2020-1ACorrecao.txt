@@ -1,0 +1,40 @@
+Algoritmo
+   inteiro atleta, semana, idade, contox, cont25 = 0, cont16 = 0, contmedia = 0;
+   real oxigenio, frequencia, maior, soma, media;
+
+   para (atleta = 1; atleta <= 10; atleta = atleta + 1)
+
+      leia (idade);
+      se (idade > 25)
+          cont25 = cont25 + 1;
+      senão
+          se (idade < 16)
+               cont16 = cont16 + 1;
+          fimse;
+      fimse;
+
+      contox = 0;
+      soma = 0;
+      leia (oxigenio);
+      faça
+          soma = soma + oxigenio;
+          contox = contox + 1;
+          leia (oxigenio);
+      enquanto (oxigenio != -1);
+      media = soma/contox;
+      se (media < 96)
+         contmedia = contmedia + 1;
+      fimse;
+
+      leia (maior);
+      para (semana = 2; semana <= 8; semana = semana + 1)
+          leia (frequencia);
+          se (frequencia > maior)
+                maior = frequencia;
+          fimse;
+      fimpara;
+
+      escreva (media, maior);
+   fimpara;
+   escreva (contmedia, cont25/10, cont16/10);
+fim.

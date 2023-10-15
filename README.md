@@ -1,6 +1,12 @@
 # Monitoria - Disciplina de Lógica de Programação
 
-Resumo de conteúdos: [conteúdos])(./conteudos.md)
+- Resumo de conteúdos: [conteúdos](./conteudos.md)  
+- Provas antigas: [provas antigas](./codigos/provas_antigas.md) (apenas provas antigas da disciplina)
+- Lista dos exercícios (apenas os exercícios passados em listas) passados em aula: [exercícios das aulas](./codigos/exercicios_aulas.md)
+- Resolução dos exercícios passados em aula: [resolução dos exercícios](./codigos/codigos_exercicios_aulas/)
+- Outros exercícios passados em aula: [](./codigos/outros_exercicios_aulas.md)
+- Avaliações da N1 2023/2 que ganharam nota máxima: [exemplos_avaliacao_n1_2023_2](./codigos/exemplos_avaliacao_n1_2023_2/)
+
 
 ### Sumário
 * [Disciplina de Lógica de Programação (Ementa)](https://github.com/erarich/c_language#disciplina-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-ementa)

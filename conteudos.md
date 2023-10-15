@@ -28,8 +28,17 @@ Fonte: Como Programar em C, Deitel, página 107
 ![operadores_incremento_decremento](/conteudos/operadores_incremento_decremento.png)  
 Fonte: Como Programar em C, Deitel, página 107
 
-página 192
-página 193
-página 196
-página 202
-página 202
+## Funções
+
+O capítulo relacionado do livro Como programar em C inicia-se na página 185.  
+
+### Funções da biblioteca matemática usadas normalmente
+![math_lib](/conteudos/math_lib.png)  
+
+
+### Hierarquia de promoção para os tipos de dados
+![tipo_dados](/conteudos/tipo_dados.png)  
+
+
+### Os arquivos de cabeçalho da biblioteca padrão
+![arquivos_cabecalho](/conteudos/arquivos_cabecalho.png)  

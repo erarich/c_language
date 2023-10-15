@@ -1,6 +1,15 @@
 # Exercícios das listas passadas em aula
 
 
+
+## Tabela de Conteúdos
+- [Exercícios das listas passadas em aula](#exercícios-das-listas-passadas-em-aula)
+  - [Tabela de Conteúdos](#tabela-de-conteúdos)
+  - [Estrutura Condicional](#estrutura-condicional)
+  - [Estrutura de Repetição](#estrutura-de-repetição)
+  - [Vetores](#vetores)
+  - [Matrizes](#matrizes)
+
 ## Estrutura Condicional
 
 

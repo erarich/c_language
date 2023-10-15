@@ -59,3 +59,32 @@ Uma empresa fará encomenda de uniformes para seus funcionários em suas 2 unida
    - Altere a **Atividade Avaliativa para N1**, mas, após a leitura dos dados, acrescente o seguinte relatório:
 
    - Dado o dia da auditoria, mostre o PH e as medidas de temperaturas aferidas neste dia. Após, forneça ao usuário a opção de consultar um outro dia, se ele desejar.
+
+9. **Postos de Saúde (vetores)**
+
+
+   Considere uma cidade pequena que tem 5 postos de saúde, numerados como 0, 1, 2, 3 e 4. Estes postos aplicaram vacinas para covid durantes os vinte primeiros dias do mês de janeiro e registraram o número de vacinas aplicadas a cada dia.
+
+
+   Faça um programa em linguagem C que leia o número de vacinas aplicadas a cada dia nos 5 postos e mostre um dos seguintes relatórios:
+   - Por posto: dado o número do posto, mostre o número total de vacinas aplicadas neste posto.
+   - Por dia: dado o dia, mostre o número total de vacinas aplicadas neste dia.
+   - Por mês: mostre o número total de vacinas aplicadas no mês de janeiro.
+
+
+   Depois, perguntar ao usuário se deseja imprimir outro relatório.
+
+10. **Postos de Saúde (matrizes)**
+
+
+   Considere uma cidade pequena que tem 5 postos de saúde, numerados como 0, 1, 2, 3 e 4. Estes postos aplicaram vacinas para covid durantes os vinte primeiros dias dos meses de janeiro à abril, e registraram o número de vacinas aplicadas a cada dia.
+
+
+   Faça um programa em linguagem C que leia o número de vacinas aplicadas a cada dia e mostre um
+   dos seguintes relatórios:
+   - Por posto: dado o número do posto, mostre o número total de vacinas aplicadas neste posto.
+   - Por dia: dado o dia e o mês, mostre o número total de vacinas aplicadas neste dia.
+   - Por mês: mostre o número total de vacinas aplicadas no mês.
+
+
+   Depois, perguntar ao usuário se deseja imprimir outro relatório.
